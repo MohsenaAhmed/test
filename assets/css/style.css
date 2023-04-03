@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+}
+header{
+    height: 160px;
+    width: 100%;
+    background: #cccccc;
+}
+.header-section{
+    height: 160px;
+    width: 70%;
+    background: #F5F5F5;
+
+}
